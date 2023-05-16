@@ -12,9 +12,12 @@ Link: Kanguru.mx
 # Tech Stack
 
 **Front-end:**
+
 React JS, Bootstrap 5
 
-Back-end: Firebase Hosting, Firebase Cloud Firestore, Firebase Cloud Functions, Node JS, Express
+**Back-end:**
+
+Firebase Hosting, Firebase Cloud Firestore, Firebase Cloud Functions, Node JS, Express
 
 **Integrated APIs:**
 
